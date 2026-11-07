@@ -1,0 +1,26 @@
+# Données patients : ne jamais publier
+*.db
+*.db-*
+uploads/
+Tableau_service_*.docx
+crh_*.docx
+
+# Sauvegardes et fichiers temporaires
+*.bak
+*.tmp
+sauvegarde_*/
+sauvegardes_motifs/
+cim10_wikipedia_preparations/
+CVA_archive_*/
+
+# Python / environnements
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Divers
+dist/
+*.log
+*.zip

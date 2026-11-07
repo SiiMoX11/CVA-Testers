@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ClaML version="2.0.0">
+  <Title name="WIKIPEDIA_CHIRURGIE_GENERALE_INFECTIONS" version="2026-10-25">Complément infectieux de chirurgie générale — sélection Wikipédia</Title>
+  <Meta name="source" value="Wikipedia-fr-selection-chirurgie-generale; non certifie OMS" />
+  <Meta name="license" value="CC BY-SA 4.0" />
+  <Class code="A01.0" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Fièvre typhoïde</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+  <Class code="A04.7" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Entérocolite à Clostridium difficile</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+  <Class code="A06.0" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Dysenterie amibienne aiguë</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+  <Class code="A18.2" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Adénopathie tuberculeuse périphérique</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+  <Class code="A18.4" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Tuberculose de la peau et du tissu cellulaire sous-cutané</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+  <Class code="A63.0" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Condylomes anogénitaux</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+  <Class code="B47" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Mycétome</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+  <Class code="B77" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Ascaridiase</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+</ClaML>

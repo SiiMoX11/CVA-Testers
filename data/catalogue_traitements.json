@@ -1,0 +1,82 @@
+[
+  {
+    "nom": "SS 0.9% 500 ml/8H",
+    "prises": 3,
+    "jours": 6
+  },
+  {
+    "nom": "SS 0.9% 500 ml/6H",
+    "prises": 4,
+    "jours": 6
+  },
+  {
+    "nom": "SS 0.9% ou RL 500 ml/6H",
+    "prises": 4,
+    "jours": 6
+  },
+  {
+    "nom": "RL 500 ml/6H",
+    "prises": 4,
+    "jours": 6
+  },
+  {
+    "nom": "SG 5% 500 ml/8H",
+    "prises": 3,
+    "jours": 6
+  },
+  {
+    "nom": "IPP 40 mg/24H",
+    "prises": 1,
+    "jours": 6
+  },
+  {
+    "nom": "Perfalgan 1 g/8H si douleur",
+    "prises": 3,
+    "jours": 6
+  },
+  {
+    "nom": "Lovenox 0.4 UI/24H",
+    "prises": 1,
+    "jours": 6
+  },
+  {
+    "nom": "Lovenox 0.6 UI/12H",
+    "prises": 2,
+    "jours": 6
+  },
+  {
+    "nom": "Triaxon 2 g/24H",
+    "prises": 1,
+    "jours": 6
+  },
+  {
+    "nom": "Zyrdol 500 mg/8H",
+    "prises": 3,
+    "jours": 6
+  },
+  {
+    "nom": "Konakion 10 mg Amp",
+    "prises": 2,
+    "jours": 6
+  },
+  {
+    "nom": "IPP à la SAP",
+    "prises": 0,
+    "jours": 6
+  },
+  {
+    "nom": "Acupan si douleur",
+    "prises": 2,
+    "jours": 6
+  },
+  {
+    "nom": "Acupan à la SAP",
+    "prises": 0,
+    "jours": 6
+  },
+  {
+    "nom": "Insuline selon dextro",
+    "prises": 0,
+    "jours": 6
+  }
+]

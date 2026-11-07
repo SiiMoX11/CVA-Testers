@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ClaML version="2.0.0">
+  <Title name="WIKIPEDIA_CHIRURGIE_GENERALE_INFECTIONS" version="2026-10-25">Complément infectieux de chirurgie générale — sélection Wikipédia</Title>
+  <Meta name="source" value="Wikipedia-fr-selection-chirurgie-generale; non certifie OMS" />
+  <Meta name="license" value="CC BY-SA 4.0" />
+  <Class code="A06.3" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Amoebome de l'intestin</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+  <Class code="A06.4" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Abcès amibien du foie</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+  <Class code="A18.3" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Tuberculose de l'intestin, du péritoine et des ganglions mésentériques</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+  <Class code="A42.1" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Actinomycose abdominale</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+  <Class code="A48.0" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Gangrène gazeuse</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+  <Class code="A63.00" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Condylomes anaux</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+  <Class code="B67" kind="category">
+    <Rubric kind="preferred">
+      <Label xml:lang="fr">Échinococcose — hydatidose notamment</Label>
+    </Rubric>
+    <Meta name="source_url" value="https://fr.wikipedia.org/wiki/CIM-10_Chapitre_01_:_Certaines_maladies_infectieuses_et_parasitaires" />
+  </Class>
+</ClaML>

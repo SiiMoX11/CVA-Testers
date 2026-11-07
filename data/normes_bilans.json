@@ -1,0 +1,266 @@
+{
+  "version": "adultes-indicatif-v3-3",
+  "status": "Références documentées indicatives, non validées par le laboratoire du service",
+  "enabled": true,
+  "minimum_age": 19,
+  "warning": "Les unités proposées correspondent à la convention de saisie choisie, pas à une norme nationale marocaine. Validation locale nécessaire. Hors référence ne signifie pas diagnostic ; absence de rouge ne garantit pas normalité.",
+  "sources": {
+    "Oxford": "https://www.ouh.nhs.uk/media/22pfm4ac/biochemistry-reference-ranges.pdf",
+    "SPS": "https://sps.nhs.uk/articles/assessing-liver-function-and-interpreting-liver-blood-tests/",
+    "CMC": "https://mcc.ca/fr/examens-et-evaluations/ressources-pour-aider-a-la-preparation-dun-examen/valeurs-de-reference/",
+    "IFSI": "https://reussistonifsi.fr/guide-infirmier-normes-biologiques/",
+    "Oxford_Calcium": "https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/calcium/",
+    "Oxford_Phosphate": "https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/phosphate/",
+    "Oxford_Triglycerides": "https://www.ouh.nhs.uk/biochemistry/tests/tests-catalogue/triglyceride/",
+    "Oxford_Hematologie": "https://www.ouh.nhs.uk/media/oskntslv/haematology-handbook.pdf"
+  },
+  "parameters": {
+    "Alb": {
+      "unit": "g/L",
+      "min": 35,
+      "max": 50,
+      "source": "SPS",
+      "note": "",
+      "max_exclusive": false
+    },
+    "GB": {
+      "unit": "/mm³",
+      "min": 4000,
+      "max": 10000,
+      "source": "IFSI",
+      "note": "",
+      "max_exclusive": false
+    },
+    "Hb": {
+      "unit": "g/dL",
+      "min": 11.5,
+      "max": 17,
+      "source": "CMC",
+      "note": "Sexe absent du dossier : enveloppe des intervalles F 11,5–15,5 et M 12,5–17. Seules les anomalies certaines pour les deux sexes sont signalées. Une valeur non rouge ne garantit pas la normalité.",
+      "max_exclusive": false
+    },
+    "Plq": {
+      "unit": "/mm³",
+      "min": 150000,
+      "max": 400000,
+      "source": "IFSI",
+      "note": "Entrer 196000 ou 196k, jamais 196 seul pour 196000.",
+      "max_exclusive": false
+    },
+    "TP": {
+      "unit": "%",
+      "min": 70,
+      "max": null,
+      "source": "IFSI",
+      "note": "Seuil indicatif de référence, non une cible sous anticoagulants.",
+      "max_exclusive": false
+    },
+    "CRP": {
+      "unit": "mg/L",
+      "min": 0,
+      "max": 5,
+      "source": "Oxford",
+      "note": "",
+      "max_exclusive": false
+    },
+    "Lipase": {
+      "unit": "UI/L",
+      "min": 8,
+      "max": 78,
+      "source": "Oxford",
+      "note": "Limite liée à une méthode, à valider localement avant usage clinique.",
+      "max_exclusive": false
+    },
+    "BT": {
+      "unit": "mg/L",
+      "min": 0,
+      "max": 12.2771,
+      "source": "Oxford",
+      "note": "Converti depuis 0–21 µmol/L : mg/L = µmol/L / 1,7105.",
+      "max_exclusive": false
+    },
+    "BD": {
+      "unit": "mg/L",
+      "min": 0,
+      "max": 2.9231,
+      "source": "Oxford",
+      "note": "Converti depuis 0–5 µmol/L.",
+      "max_exclusive": false
+    },
+    "GGT": {
+      "unit": "UI/L",
+      "min": 0,
+      "max": 50,
+      "source": "SPS",
+      "note": "Exemple générique adulte.",
+      "max_exclusive": false
+    },
+    "PAL": {
+      "unit": "UI/L",
+      "min": 30,
+      "max": 130,
+      "source": "Oxford",
+      "note": "Adulte >18 ans.",
+      "max_exclusive": false
+    },
+    "ASAT": {
+      "unit": "UI/L",
+      "min": 0,
+      "max": 40,
+      "source": "SPS",
+      "note": "",
+      "max_exclusive": false
+    },
+    "ALAT": {
+      "unit": "UI/L",
+      "min": 0,
+      "max": 40,
+      "source": "SPS",
+      "note": "",
+      "max_exclusive": false
+    },
+    "Uree": {
+      "unit": "g/L",
+      "min": 0.1502,
+      "max": 0.4685,
+      "source": "Oxford",
+      "note": "Converti depuis 2,5–7,8 mmol/L.",
+      "max_exclusive": false
+    },
+    "Creat": {
+      "unit": "mg/L",
+      "min": 5.543,
+      "max": 11.7647,
+      "source": "Oxford",
+      "note": "Sexe absent : enveloppe F 49–90 et M 64–104 µmol/L. Seules anomalies certaines pour les deux sexes signalées ; conversion mg/L = µmol/L / 8,84.",
+      "max_exclusive": false
+    },
+    "Na": {
+      "unit": "mmol/L",
+      "min": 136,
+      "max": 146,
+      "source": "CMC",
+      "note": "",
+      "max_exclusive": false
+    },
+    "K": {
+      "unit": "mmol/L",
+      "min": 3.5,
+      "max": 5.1,
+      "source": "CMC",
+      "note": "",
+      "max_exclusive": false
+    },
+    "ECBU": {
+      "unit": "",
+      "min": null,
+      "max": null,
+      "source": "",
+      "note": "Résultat textuel, pas de coloration globale automatique.",
+      "max_exclusive": false
+    },
+    "ACE": {
+      "unit": "ng/mL",
+      "min": 0,
+      "max": 5,
+      "source": "Oxford",
+      "note": "Référence générique ; tabagisme/méthode à prendre en compte.",
+      "max_exclusive": false
+    },
+    "CA19-9": {
+      "unit": "U/mL",
+      "min": 0,
+      "max": 37,
+      "source": "Oxford",
+      "note": "",
+      "max_exclusive": false
+    },
+    "CA125": {
+      "unit": "U/mL",
+      "min": null,
+      "max": 35,
+      "source": "CMC",
+      "note": "<35 kIU/L = <35 U/mL.",
+      "max_exclusive": true
+    },
+    "CA15-3": {
+      "unit": "U/mL",
+      "min": 0,
+      "max": 32,
+      "source": "Oxford",
+      "note": "",
+      "max_exclusive": false
+    },
+    "Autre": {
+      "unit": "",
+      "min": null,
+      "max": null,
+      "source": "",
+      "note": "Texte libre, sans norme automatique.",
+      "max_exclusive": false
+    },
+    "Lymphocytes": {
+      "unit": "/mm³",
+      "min": 900,
+      "max": 4000,
+      "source": "Oxford_Hematologie",
+      "note": "Numération absolue adulte : 0,9–4,0 ×10⁹/L, soit 900–4000/mm³. Ne pas saisir un pourcentage dans cette case.",
+      "max_exclusive": false,
+      "auto_flag": true
+    },
+    "Ph": {
+      "unit": "mmol/L",
+      "min": 0.8,
+      "max": 1.5,
+      "source": "Oxford_Phosphate",
+      "note": "Phosphate adulte >18 ans : 0,8–1,5 mmol/L. Vérifier la référence du laboratoire local.",
+      "max_exclusive": false,
+      "auto_flag": true
+    },
+    "Ca": {
+      "unit": "mmol/L",
+      "min": 2.2,
+      "max": 2.6,
+      "source": "Oxford_Calcium",
+      "note": "Référence OUH : calcium ajusté/corrigé 2,20–2,60 mmol/L. Nature du dosage et validation locale nécessaires ; pas de coloration automatique. Ne pas utiliser pour le calcium ionisé.",
+      "max_exclusive": false,
+      "auto_flag": false
+    },
+    "Triglycerides": {
+      "unit": "mmol/L",
+      "min": null,
+      "max": 1.7,
+      "source": "Oxford_Triglycerides",
+      "note": "À jeun : <1,70 mmol/L. Statut de jeûne non renseigné par la plateforme : pas de coloration automatique.",
+      "max_exclusive": true,
+      "auto_flag": false
+    },
+    "Cholesterol": {
+      "unit": "mmol/L",
+      "min": null,
+      "max": null,
+      "source": "Oxford",
+      "note": "Pas d’intervalle universel : interprétation selon le risque cardiovasculaire et les objectifs individuels. Pas de coloration automatique.",
+      "max_exclusive": false,
+      "auto_flag": false
+    },
+    "HDL": {
+      "unit": "mmol/L",
+      "min": null,
+      "max": null,
+      "source": "Oxford",
+      "note": "Pas d’intervalle universel retenu : interprétation individualisée dans le profil lipidique. Pas de coloration automatique.",
+      "max_exclusive": false,
+      "auto_flag": false
+    },
+    "LDL": {
+      "unit": "mmol/L",
+      "min": null,
+      "max": null,
+      "source": "Oxford",
+      "note": "Objectif dépendant du risque cardiovasculaire : ne pas utiliser un seuil universel de normalité. Pas de coloration automatique.",
+      "max_exclusive": false,
+      "auto_flag": false
+    }
+  }
+}

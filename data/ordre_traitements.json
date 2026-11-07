@@ -1,0 +1,28 @@
+{
+  "groupes": [
+    "Sérums",
+    "Antalgiques",
+    "Antibiotiques",
+    "Anticoagulation",
+    "Insuline",
+    "Autres"
+  ],
+  "ordre": {
+    "SS 0.9% 500 ml/8H": 0,
+    "SS 0.9% 500 ml/6H": 0,
+    "SS 0.9% ou RL 500 ml/6H": 0,
+    "RL 500 ml/6H": 0,
+    "SG 5% 500 ml/8H": 0,
+    "IPP 40 mg/24H": 5,
+    "Perfalgan 1 g/8H si douleur": 1,
+    "Lovenox 0.4 UI/24H": 3,
+    "Lovenox 0.6 UI/12H": 3,
+    "Triaxon 2 g/24H": 2,
+    "Zyrdol 500 mg/8H": 2,
+    "Konakion 10 mg Amp": 5,
+    "IPP à la SAP": 5,
+    "Acupan si douleur": 1,
+    "Acupan à la SAP": 1,
+    "Insuline selon dextro": 4
+  }
+}
